@@ -3,29 +3,28 @@
 I'm an undergraduate student in **Artificial Intelligence and Data Science** with a strong focus on  
 **Generative AI, Large Language Models (LLMs), and Deep Learning systems**.
 
-My work sits at the intersection of **modern AI research and system-level engineering** — building, fine-tuning, and deploying AI models while being deeply aware of performance, scalability, and real-world constraints.
-
 ---
 
 ## Primary Focus Areas
 - Generative AI and Large Language Models (LLMs)
+- Agentic and multi-agent AI systems
 - Retrieval-Augmented Generation (RAG) systems
 - Parameter-efficient fine-tuning (LoRA, QLoRA)
 - Multimodal deep learning (audio–visual systems)
 - Deep learning with PyTorch and CUDA
-- Agentic and multi-agent AI systems
+
 
 ---
 
 ## Experience Highlights
 
 ### Research Intern — Centre for Development of Advanced Computing (C-DAC)
-*Worked with PARAM Siddhi Supercomputer*
+*Worked with PARAM Siddhi HPC*
 
-- Designed and developed **multimodal synchronization and segmentation pipelines** for automated data curation, targeting downstream generative AI tasks such as voice cloning.
+- Designed and developed **multimodal synchronization and segmentation pipelines** for automated data curation, targeting downstream generative AI tasks in voice cloning.
 - Implemented and evaluated **dual-stream CNN-based architectures** for joint audio–video processing, speaker identification, and temporal alignment.
 - Applied **embedding-based similarity search** and vector databases to store and retrieve speaker representations efficiently.
-- Prototyped and validated components using **state-of-the-art multimodal models (Qwen-2.5-Omni)** as part of a large-scale research initiative.
+- Prototyped and validated components using **state-of-the-art multimodal models** as part of a large-scale research initiative.
 - Collaborated with senior researchers on documentation and experimentation for a research paper currently in preparation.
 - Gained hands-on exposure to **large-scale compute environments** and performance-aware deep learning workflows on national HPC infrastructure.
 
@@ -36,7 +35,7 @@ My work sits at the intersection of **modern AI research and system-level engine
 - Designed large-scale **data preparation, annotation, and augmentation pipelines** to improve robustness under competition constraints.
 - Trained and optimized deep learning models using **CUDA-accelerated pipelines**.
 - Integrated perception outputs with **C++-based kinematics, control logic, and sensor fusion**, supporting both autonomous and manual robot control.
-- Contributed to qualification for **national-level RoboCon finals**.
+- Contributed to qualification for **national-level South Asia Pacific RoboCon finals**.
 
 ---
 
@@ -99,7 +98,7 @@ My work sits at the intersection of **modern AI research and system-level engine
 
 ## Systems & Embedded Background
 I also have substantial experience in **embedded systems, robotics, and low-level programming**, including real-time perception, control logic, and sensor fusion in competition-grade robots.  
-This background strongly influences how I design AI systems — particularly around **latency, memory efficiency, scalability, and deployment feasibility** — and complements my current focus on large-scale AI and LLM-based systems.
+This background strongly influences how I design AI systems — particularly around **memory efficiency, scalability, and deployment feasibility** — and complements my current focus on large-scale AI and LLM-based systems.
 
 ---
 
@@ -114,4 +113,3 @@ This background strongly influences how I design AI systems — particularly aro
 
 ## Contact
 - GitHub: https://github.com/AmanShaikh-IN
-- LinkedIn: (add when ready)

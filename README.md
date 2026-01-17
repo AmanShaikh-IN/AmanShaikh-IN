@@ -39,7 +39,7 @@ I'm an undergraduate student in **Artificial Intelligence and Data Science** wit
 
 ---
 
-## Selected Projects
+## Major Projects
 
 ### QLoRA-Based Fine-Tuning with Gemma-7B
 - Fine-tuned Google’s Gemma-7B using **QLoRA with 4-bit quantization**, reducing memory usage by ~75%.

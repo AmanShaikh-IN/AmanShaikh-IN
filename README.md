@@ -1,4 +1,4 @@
-# Hi, I'm Aman Razak Shaikh
+# Hi there
 
 I'm an undergraduate student in **Artificial Intelligence and Data Science** with a strong focus on  
 **Generative AI, Large Language Models (LLMs), and Deep Learning systems**.

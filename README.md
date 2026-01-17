@@ -81,14 +81,14 @@ I'm an undergraduate student in **Artificial Intelligence and Data Science** wit
 - Scikit-learn
 
 ### Data & Systems
-- FAISS and vector search
+- VectorDBs - FAISS, ChromaDB, AstraDB
 - PostgreSQL
 - NumPy, Pandas
 - Dataset curation and annotation workflows
 - Linux-based development environments
 
 ### Cloud & Deployment
-- AWS (EC2, Bedrock)
+- AWS (EC2, Lambda, S3, Bedrock,)
 - Docker
 - Streamlit
 - FastAPI
@@ -101,6 +101,7 @@ I also have substantial experience in **embedded systems, robotics, and low-leve
 This background strongly influences how I design AI systems — particularly around **memory efficiency, scalability, and deployment feasibility** — and complements my current focus on large-scale AI and LLM-based systems.
 
 ---
+
 
 ## Research & Technical Interests
 - Applied Generative AI

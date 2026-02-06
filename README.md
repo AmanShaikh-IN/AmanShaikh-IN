@@ -93,11 +93,13 @@ I'm an undergraduate student in **Artificial Intelligence and Data Science** wit
 - Linux-based development environments
 
 ### Cloud & Deployment
-- AWS (EC2, Lambda, S3, Bedrock,)
+- AWS (EC2, Lambda, S3, Bedrock, Sagemaker, IAM, CloudWatch)
+- Terraform
 - Docker
 - Streamlit
 - FastAPI
-- Git & GitHub
+- Git, GitHub, Github Actions
+- ELK (Elasticsearch, Logstash, Kibana)
 
 ---
 
@@ -119,3 +121,4 @@ This background strongly influences how I design AI systems — particularly aro
 
 ## Contact
 - GitHub: https://github.com/AmanShaikh-IN
+- Email: amanrazakshaikh@gmail.com

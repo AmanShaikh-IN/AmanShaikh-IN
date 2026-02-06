@@ -6,13 +6,18 @@ I'm an undergraduate student in **Artificial Intelligence and Data Science** wit
 ---
 
 ## Primary Focus Areas
-- Generative AI and Large Language Models (LLMs)
-- Agentic and multi-agent AI systems
-- Retrieval-Augmented Generation (RAG) systems
-- Parameter-efficient fine-tuning (LoRA, QLoRA)
-- Multimodal deep learning (audio–visual systems)
-- Deep learning with PyTorch and CUDA
 
+**AI/ML Systems:**
+- Generative AI and Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG) on AWS infrastructure
+- Parameter-efficient fine-tuning (LoRA, QLoRA) with CUDA optimization
+- Multimodal deep learning (audio–visual systems)
+
+**AI/ML Infrastructure & Operations:**
+- Deploying LLMs and RAG systems on containerized infrastructure (Docker, Kubernetes)
+- Managing ML workloads on HPC clusters with SLURM orchestration
+- Observability and monitoring for AI pipelines (Elasticsearch, Prometheus, Grafana)
+- Infrastructure automation for ML systems (Python, Bash, Terraform)
 
 ---
 

@@ -16,7 +16,7 @@ I'm an undergraduate student in **Artificial Intelligence and Data Science** wit
 **AI/ML Infrastructure & Operations:**
 - Deploying LLMs and RAG systems on containerized infrastructure (Docker, Kubernetes)
 - Managing ML workloads on HPC clusters with SLURM orchestration
-- Observability and monitoring for AI pipelines (Elasticsearch, Prometheus, Grafana)
+- Observability and monitoring for AI pipelines (Elasticsearch, Logstash, Kibana)
 - Infrastructure automation for ML systems (Python, Bash, Terraform)
 
 ---
